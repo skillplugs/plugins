@@ -1,0 +1,16 @@
+{
+  "name": "skillplugs",
+  "owner": {
+    "name": "Skillplugs"
+  },
+  "metadata": {
+    "description": "Skills and plugins from Skillplugs"
+  },
+  "plugins": [
+    {
+      "name": "skill-scanner",
+      "source": "./skills/skill-scanner",
+      "description": "Security scanner for Claude Code skills"
+    }
+  ]
+}
